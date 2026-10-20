@@ -17,3 +17,10 @@ Edit `index.html`, commit and push to `main`. Vercel Git integration builds and 
 
 ## DNS
 Keep email forwarding, MX, TXT, and unrelated records unchanged. Website records should match the current Vercel project domain recommendations. `www` redirects to the apex domain in Vercel.
+
+## Event copy and placeholders
+The page follows the supplied “The Builders Tribe (Landing Page, PDF Invitation)” PDF: announcement followed by chapters 1–17, without visible section labels. All audience-facing source copy is preserved (PDF ligatures and whitespace normalized). Editorial instructions are excluded from public copy.
+
+The literal `[VENUE]` placeholder is retained at the owner's request. Replace it in the hero, ticket offer, and final close when confirmed. Four testimonial placeholders and square, rounded photo placeholders in the speaker strip and biographies await supplied assets. Never replace testimonial placeholders with invented endorsements.
+
+Early-bird price: PHP 1,997; regular price: PHP 3,500. Payment processing, seat reservations, and database storage are not connected. The native form remains explicitly marked as a preview.
